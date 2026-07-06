@@ -4,12 +4,12 @@
 
 # Hey, I'm Protyoy Bhandary
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;Distributed+Systems+%26+Blockchain+%E2%9B%93%EF%B8%8F;Rust+%7C+CI%2FCD+%7C+Kubernetes+%7C+ML;Building+scalable%2C+production-grade+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;Blockchain+Developer+%E2%9B%93%EF%B8%8F;React+%7C+Node.js+%7C+AI+%7C+Web3;Building+scalable+production-grade+apps)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/protyoy-bhandary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:bhandaryprotyoy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/prox004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=prox004&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=prox004&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=1600"/>
 
 </div>
 
@@ -22,13 +22,13 @@ name: Protyoy Bhandary
 role: Full Stack Engineer & Blockchain Developer
 location: Kolkata, India
 currently_building: RendoFren — a decentralized GPU rendering network
-currently_learning: [Rust, CI/CD, Kubernetes, Machine Learning]
+currently_learning: [Rust, Machine Learning, Distributed Systems, Blockchain Scaling]
 ask_me_about: [Full-stack dev, Cloud platforms, Blockchain engineering]
 fun_fact: "Also a Visual Designer with 6 years of experience 🎨"
 ```
 
 - 🔭 Currently interning as a **Software Developer at Gexart Technologies**, shipping React/Node.js modules in production
-- 🌐 Organizing workshops & hackathons as a **Google Developer Group (GDG) Lead**
+- 🌐 Organizing workshops & hackathons as a **GDG on Campus Organizer**
 - ⚡ Building decentralised systems — GPU render markets, on-chain invoicing, AI career tooling
 - 📫 Reach me at **bhandaryprotyoy@gmail.com**
 
@@ -36,9 +36,10 @@ fun_fact: "Also a Visual Designer with 6 years of experience 🎨"
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,py,c,solidity,react,tailwind,vite,nodejs,express,django,mysql,mongodb,redis,firebase,aws,gcp,azure,git,github,linux&perline=10" />
+<div align="left">
+<br>
+<img src="https://skillicons.dev/icons?i=java,python,c,react,nodejs,express,django,tailwind,vite,mongodb,mysql,redis,firebase,aws,gcp,azure,git,github,linux,solidity&theme=dark"/>
+<br>
 
 </div>
 
@@ -112,8 +113,8 @@ Ethereum smart contracts automating invoice generation, validation & settlement 
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=prox004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prox004&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=8"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prox004&theme=github_dark"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prox004&theme=github_dark"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prox004&theme=github-dark-blue&hide_border=true&background=0d1117" />
 
@@ -121,13 +122,22 @@ Ethereum smart contracts automating invoice generation, validation & settlement 
 
 </div>
 
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
+<div align="left">
+
+## 🏆 GitHub Highlights
+
 <br>
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prox004&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+<img
+  src="https://trophygithubreadmelang.cybee.dpdns.org/?username=prox004&rank=-C,-?&theme=darkhub&no-bg=true&no-frame=true"
+  alt="GitHub Highlights"
+  width="100%"
+  align="center"
+/>
 </div>
-</details>
+
+</div>
 
 <br>
 
@@ -136,8 +146,6 @@ Ethereum smart contracts automating invoice generation, validation & settlement 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-> 💡 *Tip: this snake animates automatically once a GitHub Action runs on your repo — see the note at the bottom of this README to enable it.*
 
 <br>
 
@@ -152,3 +160,12 @@ Ethereum smart contracts automating invoice generation, validation & settlement 
 <br><br>
 
 </div>
+
+## 💀 Quote of the Day
+
+<div align="left">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+
+</div>
+
