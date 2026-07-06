@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-# Hey, I'm Protyoy Bhandary 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20Engineer%20%7C%20Blockchain%20%7C%20Cloud&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Kolkata,%20India&descAlignY=55&descSize=18" width="100%"/>
+# Hey, I'm Protyoy Bhandary
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;Distributed+Systems+%26+Blockchain+%E2%9B%93%EF%B8%8F;Rust+%7C+CI%2FCD+%7C+Kubernetes+%7C+ML;Building+scalable%2C+production-grade+apps)](https://git.io/typing-svg)
 
@@ -23,7 +21,6 @@
 name: Protyoy Bhandary
 role: Full Stack Engineer & Blockchain Developer
 location: Kolkata, India
-education: B.Tech CSE @ MAKAUT (GPA 8.23/10.0)
 currently_building: RendoFren — a decentralized GPU rendering network
 currently_learning: [Rust, CI/CD, Kubernetes, Machine Learning]
 ask_me_about: [Full-stack dev, Cloud platforms, Blockchain engineering]
@@ -32,7 +29,7 @@ fun_fact: "Also a Visual Designer with 6 years of experience 🎨"
 
 - 🔭 Currently interning as a **Software Developer at Gexart Technologies**, shipping React/Node.js modules in production
 - 🌐 Organizing workshops & hackathons as a **Google Developer Group (GDG) Lead**
-- ⚡ Building decentralized systems — GPU render markets, on-chain invoicing, AI career tooling
+- ⚡ Building decentralised systems — GPU render markets, on-chain invoicing, AI career tooling
 - 📫 Reach me at **bhandaryprotyoy@gmail.com**
 
 <br>
@@ -52,7 +49,7 @@ fun_fact: "Also a Visual Designer with 6 years of experience 🎨"
 | Category | Stack |
 |---|---|
 | **Languages** | Java, Python, C, Solidity |
-| **Frontend** | React, React Native, TailwindCSS, Vite |
+| **Frontend** | React, React Native, Tailwind CSS, Vite |
 | **Backend** | Node.js, Express.js, Django, REST APIs |
 | **Databases** | MySQL, MongoDB, Redis, Firebase |
 | **Cloud** | AWS, GCP, Azure |
@@ -60,21 +57,6 @@ fun_fact: "Also a Visual Designer with 6 years of experience 🎨"
 | **Tools** | Git, GitHub, Linux |
 
 </details>
-
-<br>
-
-## 💼 Experience Timeline
-
-```mermaid
-timeline
-    title Career Journey
-    Mar 2024 : Production Design Intern @ Lidoma Vision International
-             : Real-time dashboards for Tencent, Krafton & AMD (3M+ impressions)
-    Aug 2025 : GDG Organizer & Design Lead
-             : 40,000+ impressions · 600+ registrations · 5+ sponsor partnerships
-    Jan 2026 : Software Developer Intern @ Gexart Technologies
-             : Shipped 3+ full-stack modules · 30% latency reduction · 40% faster releases
-```
 
 <br>
 
@@ -119,9 +101,6 @@ Ethereum smart contracts automating invoice generation, validation & settlement 
 ### 🎓 Certifications
 - **Google Cyber Security Career Certificate**
 
-### 📚 Education
-- **B.Tech CSE**, MAKAUT — GPA 8.23/10.0 *(2024–Present)*
-- **ISC**, Holy Home Serampore — 92.25% *(2021–2024)*
 
 </td>
 </tr>
@@ -171,7 +150,5 @@ Ethereum smart contracts automating invoice generation, validation & settlement 
 <a href="https://github.com/prox004"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
